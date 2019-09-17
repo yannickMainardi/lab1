@@ -3,7 +3,11 @@ public class PersonInfo2 {
     public static String firstName = "Justin";
     public static String lastName = "Leach";
     public static int studentNo = 300091487;
-    public static String description = "Student ottawa";
+<<<<<<< HEAD
+    public static String description = "Student uottawa";
+=======
+    public static String description = "Student uottawa";
+>>>>>>> Justin_NewFileAdded
 
     public static void displayFr() {
         String out = SIConstants.GREETING_FR;
